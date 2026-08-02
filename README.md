@@ -26,7 +26,7 @@ The goal is to create a visual experience that helps clients understand the spac
 ---
 
 ## 🖼️ Gallery
-
+A_closeup_shot_2k_202602212331.jpeg
 
 
 ---
